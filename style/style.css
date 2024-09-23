@@ -1,0 +1,31 @@
+
+h1{
+    text-align: center;
+    background-color: bisque;
+}
+.cuadro{
+    background-color: darkseagreen;
+    padding: 10px; /* Espacio interno */
+    margin: 20px auto; /* Espacio externo, centrándolo */
+    width: 300px; /* Ancho del formulario */
+    border-radius: 5px; /* Bordes redondeados */
+
+}
+table{
+    width: 80%; /* O cualquier ancho deseado */
+    margin: 20px auto; /* Centra la tabla */
+    border-collapse: collapse; /* Elimina el espacio entre celdas */
+}
+th, td {
+    padding: 10px; /* Espacio dentro de las celdas */
+    border: 1px solid black; /* Bordes de las celdas */
+    text-align: center; /* Centra el texto dentro de las celdas */
+    background-color: darkseagreen
+}
+th {
+    
+    background-color: mediumseagreen;
+}
+.eliminar{
+    color: red;
+}
